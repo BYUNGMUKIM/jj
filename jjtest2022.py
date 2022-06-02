@@ -2,13 +2,13 @@ import time
 import pyupbit
 import datetime
 
-access = "F3c4LD0DaKdxkU2spiORY1rRKQQH7drO8eybjHqD"          # 본인 값으로 변경
-secret = "PvzT2Kl4XF8UBHdMnLAjOUO01ViJ2mZTVASZc1LU"          # 본인 값으로 변경
+access = "F"          # 본인 값으로 변경
+secret = "P"          # 본인 값으로 변경
 upbit = pyupbit.Upbit(access, secret)
 
 
-accesss = "MKj7qSJev41IXCCf5GJBG084WT0s3Zv1uxuaZFk3"          # 본인 값으로 변경
-secrett = "WcqjzhcfYTUv4tOaDesi6skG82nxXu3y99Hk3nqf"          # 본인 값으로 변경
+accesss = "M"          # 본인 값으로 변경
+secrett = "W"          # 본인 값으로 변경
 upbitt = pyupbit.Upbit(accesss, secrett)
 
 
